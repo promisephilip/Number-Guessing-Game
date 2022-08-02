@@ -1,0 +1,1 @@
+This is a guessing program that enables user to get a random integer number generated given by the system.
